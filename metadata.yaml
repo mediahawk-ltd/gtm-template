@@ -2,9 +2,11 @@ homepage: "https://www.mediahawk.co.uk"
 documentation: "https://support.mediahawk.co.uk/support/solutions/folders/17000127698"
 versions:
   # latest version
+  - sha: a70a4e54edc85e00201d5b42276ca40b44199ea7
+    changenotes: Added minified Javascript, changed field name, fixed description typo.
+  #old versions
   - sha: a498bc1d37176d1202590d09cd30a3307ad6611b
     changenotes: Added copyright notice
-  # old versions
   - sha: fd56c73f275d44bb5abce2d87dd2a1f958adc7f2
     changeNotes: Updated template with new description/title/logo
   - sha: 0ddaac57c23ea3ee4f5020e2b9a4b7589801eee2
